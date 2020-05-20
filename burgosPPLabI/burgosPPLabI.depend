@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1589985857 source:c:\users\federico\desktop\burgospplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"burgos.h"
+	"informes.h"
+
+1589985036 source:c:\users\federico\desktop\burgospplabi\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+	"Burgos.h"
+
+1589376039 source:c:\users\federico\desktop\burgospplabi\validaciones.c
+
+1589986211 source:c:\users\federico\desktop\burgospplabi\burgos.c
+	"Burgos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589948999 source:c:\users\federico\desktop\burgospplabi\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589983987 source:c:\users\federico\desktop\burgospplabi\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589983831 source:c:\users\federico\desktop\burgospplabi\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589951812 source:c:\users\federico\desktop\burgospplabi\trabajo.c
+	"burgos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1589977109 c:\users\federico\desktop\burgospplabi\burgos.h
+	"color.h"
+	"tipo.h"
+	"mascotas.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1589978596 c:\users\federico\desktop\burgospplabi\mascotas.h
+	"cliente.h"
+
+1589953971 c:\users\federico\desktop\burgospplabi\validaciones.h
+
+1589952049 c:\users\federico\desktop\burgospplabi\tipo.h
+
+1589951887 c:\users\federico\desktop\burgospplabi\color.h
+
+1589952066 c:\users\federico\desktop\burgospplabi\servicio.h
+
+1589951812 c:\users\federico\desktop\burgospplabi\trabajo.h
+
+1589986142 source:c:\users\federico\desktop\burgospplabi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Burgos.h"
+
+1589976849 source:c:\users\federico\desktop\burgospplabi\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Burgos.h"
+
+1589978570 c:\users\federico\desktop\burgospplabi\cliente.h
+
+1589985850 c:\users\federico\desktop\burgospplabi\informes.h
+
